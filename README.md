@@ -1,6 +1,6 @@
 # Python-Code
 
-Storage for Python code samples...
+Storage for Python code samples and snippets...
 
 Dedupe - using a python library which uses Machine Learning for deduping
 
